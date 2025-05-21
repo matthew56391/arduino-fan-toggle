@@ -36,7 +36,7 @@ This project uses an Arduino Uno, a pushbutton, and an NPN transistor to toggle 
 
 ## Demo
 
-📹 [[[Link to demo video here](https://drive.google.com/file/d/1rQ0qsCx_PUGdvDPFgguYAp22ubz_UXhn/view?usp=drive_link)
+📹 [[[Link to demo video here](https://drive.google.com/file/d/1rQ0qsCx_PUGdvDPFgguYAp22ubz_UXhn/view?usp=drive_link)]]
 
 1. When the button is pressed, the code detects a rising edge (`LOW` → `HIGH`).
 2. A boolean variable `fanOn` is toggled.
